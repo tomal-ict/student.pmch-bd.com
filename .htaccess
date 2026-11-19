@@ -1,0 +1,52 @@
+# Popular Medical College Portal - Root Server Configuration
+DirectoryIndex index.php index.html
+
+# Pass Authorization headers to PHP under Apache FastCGI / PHP-FPM (cPanel, aaPanel, Linux VPS)
+<IfModule mod_setenvif.c>
+    SetEnvIfNoCase ^Authorization$ "(.+)" HTTP_AUTHORIZATION=$1
+    SetEnvIfNoCase Authorization "(.+)" HTTP_AUTHORIZATION=$1
+    SetEnvIfNoCase ^X-Authorization$ "(.+)" HTTP_X_AUTHORIZATION=$1
+    SetEnvIfNoCase X-Authorization "(.+)" HTTP_X_AUTHORIZATION=$1
+    SetEnvIfNoCase ^X-Auth-Token$ "(.+)" HTTP_X_AUTH_TOKEN=$1
+    SetEnvIfNoCase X-Auth-Token "(.+)" HTTP_X_AUTH_TOKEN=$1
+</IfModule>
+
+<IfModule mod_authz_core.c>
+    CGIPassAuth On
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Pass Authorization into environment for FastCGI / FPM
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    RewriteCond %{HTTP:x-authorization} .
+    RewriteRule .* - [E=HTTP_X_AUTHORIZATION:%{HTTP:x-authorization}]
+
+    RewriteCond %{HTTP:x-auth-token} .
+    RewriteRule .* - [E=HTTP_X_AUTH_TOKEN:%{HTTP:x-auth-token}]
+
+    # Route /myadmin directly to index.php with admin flag
+    RewriteRule ^myadmin/?$ index.php?page=myadmin [L,QSA]
+
+    # Route direct /api/* calls to backend/public/index.php
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^api/(.*)$ backend/public/index.php [L,QSA]
+</IfModule>
+
+# Security Protection: Block sensitive files from web access
+<FilesMatch "^(\.env.*|\.git.*|composer\.(json|lock)|package\.json|.*\.sql|.*\.bak|.*\.log)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+Options -Indexes
+ServerSignature Off

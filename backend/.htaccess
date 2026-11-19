@@ -1,0 +1,12 @@
+# Root backend protection: Prevent direct access to backend files except public
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "^(composer\.(json|lock)|package\.json|artisan|\.env.*)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+Options -Indexes

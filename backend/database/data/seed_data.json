@@ -1,0 +1,2986 @@
+[
+  {
+    "exam_type": "1st Professional",
+    "name": "Nafis Sehtab",
+    "reg_no": "10095",
+    "roll": "1388",
+    "exam_month": "November",
+    "exam_year": "2017",
+    "grand_total": "881",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "330"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "268"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "283"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Nafis Sehtab",
+    "reg_no": "10095",
+    "roll": "3778",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "347"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "270"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Md.Mamun Ar Rashid",
+    "reg_no": "10051",
+    "roll": "1405",
+    "exam_month": "November",
+    "exam_year": "2017",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "287"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Md.Minhaj Uddin Bijoy",
+    "reg_no": "10041",
+    "roll": "1382",
+    "exam_month": "November",
+    "exam_year": "2017",
+    "grand_total": "926",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "355"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "294"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "140"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Tohar Rahman",
+    "reg_no": "10075",
+    "roll": "3049",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "866",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "320"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "279"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "267"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Tohar Rahman",
+    "reg_no": "10103",
+    "roll": "3779",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "326"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Md.Jalal Uddin Ritik",
+    "reg_no": "10090",
+    "roll": "3064",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "874",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "326"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "281"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "267"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Md.Jalal Uddin Ritik",
+    "reg_no": "10126",
+    "roll": "1409",
+    "exam_month": "November",
+    "exam_year": "2017",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "343"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Dilshad Alam",
+    "reg_no": "10088",
+    "roll": "3039",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "936",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "350"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "292"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "294"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Rifat Ferdous",
+    "reg_no": "10062",
+    "roll": "3023",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "961",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "369"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "296"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "296"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Ibrahim Mollah Jesun",
+    "reg_no": "10087",
+    "roll": "3038",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "923",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "345"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "297"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "281"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Humaira Tasneem  Rahman",
+    "reg_no": "10053",
+    "roll": "3016",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "963",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "350"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "312"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "301"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Mishma Salsabil Khan",
+    "reg_no": "10059",
+    "roll": "3020",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "1026",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "395"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "315"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "316"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Meem Rahman",
+    "reg_no": "10102",
+    "roll": "3048",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "925",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "364"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "284"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "277"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Rohit Khan",
+    "reg_no": "10093",
+    "roll": "3043",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "994",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "364"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "323"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "307"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Syeda Kaniz Fatema",
+    "reg_no": "10085",
+    "roll": "3037",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "916",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "342"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "287"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "287"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Md. Iftekhar Anam",
+    "reg_no": "10080",
+    "roll": "1387",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "928",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "320"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "307"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "301"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Sabira Haque Bibha",
+    "reg_no": "10064",
+    "roll": "3024",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "955",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "365"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "297"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "293"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Md. Kamrul Islam",
+    "reg_no": "10089",
+    "roll": "3063",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "1006",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "374"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "316"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "316"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Sanjida Islam",
+    "reg_no": "10056",
+    "roll": "3017",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "922",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "351"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "293"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "278"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Seema Roy",
+    "reg_no": "10072",
+    "roll": "3031",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "920",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "350"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "297"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "273"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Sahiba Zaman",
+    "reg_no": "10069",
+    "roll": "3028",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "991",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "385"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "316"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "290"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Umma mahera Afruz Bristy",
+    "reg_no": "10084",
+    "roll": "3036",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "913",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "336"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "296"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "281"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Susmita Zebin Jency",
+    "reg_no": "10120",
+    "roll": "1389",
+    "exam_month": "November",
+    "exam_year": "2017",
+    "grand_total": "912",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "335"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "296"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "281"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Syed Tahmeeduzzaman",
+    "reg_no": "10039",
+    "roll": "3013",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "961",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "360"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "310"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "291"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Swapnil Das",
+    "reg_no": "10066",
+    "roll": "3513",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "907",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "347"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "280"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "280"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Nabila Noor Dutee",
+    "reg_no": "10070",
+    "roll": "3029",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "987",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "363"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "315"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "309"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Farzana Islam",
+    "reg_no": "10081",
+    "roll": "3034",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "918",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "357"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "281"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "280"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Shahriar Parvez Rifat",
+    "reg_no": "10112",
+    "roll": "3055",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "923",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "355"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "289"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "279"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Sadia Sultana",
+    "reg_no": "10121",
+    "roll": "3061",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "922",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "346"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "293"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "283"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Hafiza Rashid",
+    "reg_no": "10114",
+    "roll": "3057",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "900",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "338"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "282"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "280"
+      }
+    ]
+  },
+  {
+    "exam_type": "1st Professional",
+    "name": "Fariha Farzana",
+    "reg_no": "10052",
+    "roll": "3015",
+    "exam_month": "May",
+    "exam_year": "2017",
+    "grand_total": "871",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Anatomy",
+        "full_marks": 500,
+        "obtained_marks": "318"
+      },
+      {
+        "subject_name": "Physiology",
+        "full_marks": 400,
+        "obtained_marks": "281"
+      },
+      {
+        "subject_name": "Biochemistry",
+        "full_marks": 400,
+        "obtained_marks": "272"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Md.Minhaj Uddin Bijoy",
+    "reg_no": "10041",
+    "roll": "1104",
+    "exam_month": "November",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "204"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "208"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Maria akter",
+    "reg_no": "7500",
+    "roll": "4170",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "157"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "188"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Syed Farhan Noor Ramim",
+    "reg_no": "8149",
+    "roll": "4173",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "199"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "189"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Rakshya Karki",
+    "reg_no": "10134",
+    "roll": "3017",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "214"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "221"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Sazan Dey Utsab",
+    "reg_no": "7489",
+    "roll": "3018",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "163"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Khadija Hossain Sabiha",
+    "reg_no": "",
+    "roll": "2990",
+    "exam_month": "May",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "0"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "195"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Neerwa Gosain",
+    "reg_no": "10129",
+    "roll": "1115",
+    "exam_month": "November",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "200"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "207"
+      }
+    ]
+  },
+  {
+    "exam_type": "2nd Professional",
+    "name": "Md.Jalal Uddin Ritik",
+    "reg_no": "10090",
+    "roll": "1114",
+    "exam_month": "November",
+    "exam_year": "2018",
+    "grand_total": "",
+    "result_status": "",
+    "subjects": [
+      {
+        "subject_name": "Forensic Medicine",
+        "full_marks": 300,
+        "obtained_marks": "201"
+      },
+      {
+        "subject_name": "Community Medicine",
+        "full_marks": 300,
+        "obtained_marks": "201"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md.Jalal Uddin Ritik",
+    "reg_no": "10090",
+    "roll": "1265",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "636",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "208"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "212"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "216"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Nazmul Hasan opu",
+    "reg_no": "10123",
+    "roll": "1263",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "623",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "214"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "204"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "205"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Santonu Karmokar",
+    "reg_no": "10124",
+    "roll": "1264",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "634",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "212"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md.Imranul Haque",
+    "reg_no": "10075",
+    "roll": "1267",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "613",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "194"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "207"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "212"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Khaled Mosharrof",
+    "reg_no": "10051",
+    "roll": "1260",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "621",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "203"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "209"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "209"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Aysha Khanom Puson",
+    "reg_no": "10042",
+    "roll": "1259",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "598",
+    "result_status": "Refreed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "203"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "194"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "201"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Afroza Sharif",
+    "reg_no": "10039",
+    "roll": "1257",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "624",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "205"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "208"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md.Ifekhar Anam",
+    "reg_no": "10080",
+    "roll": "1256",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "633",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "218"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "207"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "208"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Rahat Hossain",
+    "reg_no": "10044",
+    "roll": "1255",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "641",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "222"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "2058"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "214"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Sabira Haque Bibha",
+    "reg_no": "10064",
+    "roll": "1286",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "199"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Fatema Majumder",
+    "reg_no": "10091",
+    "roll": "1288",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "209"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md.Aminul Islam",
+    "reg_no": "10111",
+    "roll": "1269",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "604",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "206"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "203"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "195"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Fariha Farzana",
+    "reg_no": "10052",
+    "roll": "1261",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "636",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "209"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "215"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "212"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Kanchan Adhikary",
+    "reg_no": "10130",
+    "roll": "1266",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "584",
+    "result_status": "Refreed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "173"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "200"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Rakshya Karki",
+    "reg_no": "10134",
+    "roll": "1271",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "626",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "213"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "202"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md.Toudin Hossain",
+    "reg_no": "9826",
+    "roll": "1291",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "205"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md.Minhaj Uddin Bijoy",
+    "reg_no": "10041",
+    "roll": "1258",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "579",
+    "result_status": "Refreed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "199"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "195"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "185"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Mrinal Kanty Ghosh",
+    "reg_no": "10090",
+    "roll": "1268",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "622",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "209"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "207"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "206"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Sawan Kumar Jha",
+    "reg_no": "10131",
+    "roll": "1270",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "613",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "205"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "197"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Rakshya Karki",
+    "reg_no": "10134",
+    "roll": "1271",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "626",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "211"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "213"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "202"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Moumita Paul",
+    "reg_no": "10116",
+    "roll": "1290",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "206"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Toufiqu Ahmed",
+    "reg_no": "10113",
+    "roll": "1289",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "197"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Saha Pratik Prasad",
+    "reg_no": "10061",
+    "roll": "1285",
+    "exam_month": "November",
+    "exam_year": "2019",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "197"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Sahara Jannat Banni",
+    "reg_no": "10117",
+    "roll": "5772",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "613",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "210"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "210"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "193"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Sadika Nur",
+    "reg_no": "10097",
+    "roll": "5813",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "425",
+    "result_status": "Refreed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "134"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "117"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "174"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Shahriar Mostofa Rean",
+    "reg_no": "10054",
+    "roll": "5819",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "576",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "190"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "190"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "196"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md. Sabbir Hossain",
+    "reg_no": "10040",
+    "roll": "5820",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "547",
+    "result_status": "Refreed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "196"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "162"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "189"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Maliha Muntaha",
+    "reg_no": "10098",
+    "roll": "5822",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "199"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Md. Tanvir Hasan",
+    "reg_no": "10055",
+    "roll": "5827",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "190"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Nischal Shah",
+    "reg_no": "10128",
+    "roll": "5823",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "205"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Dilshad Alam",
+    "reg_no": "10088",
+    "roll": "3023",
+    "exam_month": "May",
+    "exam_year": "2019",
+    "grand_total": "625",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "220"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "212"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "193"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Rifat Ferdous",
+    "reg_no": "10062",
+    "roll": "3009",
+    "exam_month": "May",
+    "exam_year": "2019",
+    "grand_total": "632",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "208"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "225"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "199"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Ibrahim Mollah Jesun",
+    "reg_no": "10087",
+    "roll": "3022",
+    "exam_month": "May",
+    "exam_year": "2019",
+    "grand_total": "622",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "218"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "207"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "197"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Humaira Tasneem  Rahman",
+    "reg_no": "10053",
+    "roll": "3002",
+    "exam_month": "May",
+    "exam_year": "2019",
+    "grand_total": "621",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "202"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "215"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "204"
+      }
+    ]
+  },
+  {
+    "exam_type": "3rd Professional",
+    "name": "Mishma Salsabil Khan",
+    "reg_no": "10059",
+    "roll": "3006",
+    "exam_month": "May",
+    "exam_year": "2019",
+    "grand_total": "707",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Pharmacology",
+        "full_marks": 300,
+        "obtained_marks": "245"
+      },
+      {
+        "subject_name": "Microbiology",
+        "full_marks": 300,
+        "obtained_marks": "250"
+      },
+      {
+        "subject_name": "Pathology",
+        "full_marks": 300,
+        "obtained_marks": "212"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Md. Shariful Islam Sharif",
+    "reg_no": "10127",
+    "roll": "4219",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "972",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "301"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "311"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "360"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Md. Sanzid Rahman",
+    "reg_no": "10079",
+    "roll": "4218",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1029",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "333"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "327"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "369"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Shihab Rahman",
+    "reg_no": "10077",
+    "roll": "4208",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1081",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "356"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "357"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "368"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Belalur Rahman",
+    "reg_no": "10819",
+    "roll": "4184",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1067",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "339"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "351"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "377"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Nafis Sehtab",
+    "reg_no": "10095",
+    "roll": "4171",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1054",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "348"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "336"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "370"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Mehedi Hasan",
+    "reg_no": "10067",
+    "roll": "4172",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "995",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "326"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "310"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "359"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Rakshya Karki",
+    "reg_no": "10134",
+    "roll": "4247",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1165",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "388"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "376"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "401"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Kanchan Adhikari",
+    "reg_no": "10130",
+    "roll": "4249",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1101",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "356"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "351"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "394"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Md. Jalal Uddin Ritik",
+    "reg_no": "10126",
+    "roll": "4253",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "377"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": ""
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": ""
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Md.Mezbah Uddin",
+    "reg_no": "10817",
+    "roll": "4166",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1105",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "369"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "357"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "379"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Azmira Dina",
+    "reg_no": "10818",
+    "roll": "4167",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1075",
+    "result_status": "Referred",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "374"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "334"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "367"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Shadia Afrose brinta",
+    "reg_no": "10820",
+    "roll": "4241",
+    "exam_month": "May",
+    "exam_year": "2022",
+    "grand_total": "1087",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "351"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "361"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "375"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Dilshad Alam",
+    "reg_no": "10088",
+    "roll": "3467",
+    "exam_month": "November",
+    "exam_year": "2022",
+    "grand_total": "1125",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "368"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "373"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "384"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Rifat Ferdous",
+    "reg_no": "10062",
+    "roll": "3499",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1141",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "366"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "381"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "394"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Ibrahim Mollah Jesun",
+    "reg_no": "10087",
+    "roll": "3478",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1079",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "332"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "362"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "385"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Humaira Tasneem  Rahman",
+    "reg_no": "10053",
+    "roll": "3477",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1112",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "360"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "368"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "384"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Mishma Salsabil Khan",
+    "reg_no": "10059",
+    "roll": "3488",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1216",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "424"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "393"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "399"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Meem Rahman",
+    "reg_no": "10102",
+    "roll": "3487",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1105",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "366"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "362"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "377"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Rohit Khan",
+    "reg_no": "10093",
+    "roll": "3500",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1181",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "391"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "378"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "412"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Syeda Kaniz Fatema",
+    "reg_no": "10085",
+    "roll": "3515",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1125",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "366"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "368"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "391"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Md. Iftekhar Anam",
+    "reg_no": "10080",
+    "roll": "4528",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1096",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "367"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "361"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "368"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Sabira Haque Bibha",
+    "reg_no": "10064",
+    "roll": "3503",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1058",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "352"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "314"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "392"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Md. Kamrul Islam",
+    "reg_no": "10125",
+    "roll": "3484",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1149",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "387"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "384"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "378"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Sanjida Islam",
+    "reg_no": "10056",
+    "roll": "3507",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1097",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "345"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "349"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "403"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Seema Roy",
+    "reg_no": "10072",
+    "roll": "3509",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1095",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "369"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "346"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "380"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Sahiba Zaman",
+    "reg_no": "10069",
+    "roll": "3506",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1190",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "369"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "384"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "410"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Umma mahera Afruz Bristy",
+    "reg_no": "10084",
+    "roll": "3519",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1103",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "351"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "353"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "399"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Susmita Zebin Jency",
+    "reg_no": "10120",
+    "roll": "3512",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1011",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "330"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "332"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "349"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Syed Tahmeeduzzaman",
+    "reg_no": "10049",
+    "roll": "3514",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1120",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "373"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "355"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "392"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Swapnil Das",
+    "reg_no": "10066",
+    "roll": "3513",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1118",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "376"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "364"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "378"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Nabila Noor Dutee",
+    "reg_no": "10070",
+    "roll": "3494",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1116",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "362"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "367"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "387"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Farzana Islam",
+    "reg_no": "10081",
+    "roll": "3471",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1083",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "359"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "345"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "379"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Shahriar Parvez Rifat",
+    "reg_no": "10112",
+    "roll": "3510",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1165",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "399"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "372"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "394"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Sadia Sultana",
+    "reg_no": "10121",
+    "roll": "3504",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1124",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "378"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "349"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "397"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Hafiza Rashid",
+    "reg_no": "10114",
+    "roll": "3474",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1114",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "373"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "364"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "377"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Fariha Farzana",
+    "reg_no": "10052",
+    "roll": "3470",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1085",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "356"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "348"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "381"
+      }
+    ]
+  },
+  {
+    "exam_type": "Final Professional",
+    "name": "Baishakhi Halder",
+    "reg_no": "10058",
+    "roll": "3466",
+    "exam_month": "August",
+    "exam_year": "2021",
+    "grand_total": "1201",
+    "result_status": "Passed",
+    "subjects": [
+      {
+        "subject_name": "Medicine",
+        "full_marks": 500,
+        "obtained_marks": "406"
+      },
+      {
+        "subject_name": "Surgery",
+        "full_marks": 500,
+        "obtained_marks": "388"
+      },
+      {
+        "subject_name": "Obstetrics & Gynaecology",
+        "full_marks": 500,
+        "obtained_marks": "407"
+      }
+    ]
+  }
+]

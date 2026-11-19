@@ -1,0 +1,46 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Headers for FastCGI / PHP-FPM (cPanel, aaPanel, VPS)
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    RewriteCond %{HTTP:x-authorization} .
+    RewriteRule .* - [E=HTTP_X_AUTHORIZATION:%{HTTP:x-authorization}]
+
+    RewriteCond %{HTTP:x-auth-token} .
+    RewriteRule .* - [E=HTTP_X_AUTH_TOKEN:%{HTTP:x-auth-token}]
+
+    # Handle X-XSRF-Token Header
+    RewriteCond %{HTTP:x-xsrf-token} .
+    RewriteRule .* - [E=HTTP_X_XSRF_TOKEN:%{HTTP:X-XSRF-Token}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+# Pass Authorization header to PHP under Apache / FastCGI / PHP-FPM
+<IfModule mod_setenvif.c>
+    SetEnvIfNoCase ^Authorization$ "(.+)" HTTP_AUTHORIZATION=$1
+    SetEnvIfNoCase Authorization "(.+)" HTTP_AUTHORIZATION=$1
+    SetEnvIfNoCase ^X-Authorization$ "(.+)" HTTP_X_AUTHORIZATION=$1
+    SetEnvIfNoCase X-Authorization "(.+)" HTTP_X_AUTHORIZATION=$1
+    SetEnvIfNoCase ^X-Auth-Token$ "(.+)" HTTP_X_AUTH_TOKEN=$1
+    SetEnvIfNoCase X-Auth-Token "(.+)" HTTP_X_AUTH_TOKEN=$1
+</IfModule>
+
+# For Apache 2.4.26+ with PHP-FPM / FastCGI
+<IfModule mod_authz_core.c>
+    CGIPassAuth On
+</IfModule>
